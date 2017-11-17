@@ -28,7 +28,7 @@ The notifications and content sharing features introduce how you can inform the 
 - [Alarms and Scheduling](alarm/alarm-cover-n.md)
 The alarms and scheduling features introduce how you can define and store alarms. You can use the alarm trigger to launch applications as and when the user needs them.
 
-- [Media and Camera](media/media-cover-n.md)
+- [Media and Camera](multimedia/media-cover-n.md)
 The media and camera features cover everything related to multimedia. You can record and play various media formats, use the device camera to take pictures, and listen to the radio. You can also handle media conversions, manage media streams, and take advantage of media key events.
 
 - [Connectivity and Wireless](connectivity/connectivity-cover-n.md)

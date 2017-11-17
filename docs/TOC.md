@@ -4,7 +4,7 @@
 # [What is Tizen?](https://portal.tizen.org/tizen/overview/tizen.php)
 
 
-# Open Source Tizen
+# Open Source Project
 
 ## [Overview](open-source-tizen/about/tizen-open-source-overview.md)
 ### [Development Workflow](open-source-tizen/about/work-flow.md)
@@ -74,15 +74,34 @@
 <!-- End of Tizen Platform -->
 
 <!-- Tizen .NET Content -->
-# <!--Tizen .NET (TBD)-->
-## <!--Getting Started-->
-## <!--Guides-->
-## <!--API Reference-->
-## <!--VS Tools-->
-## <!--Samples-->
+<!--Tizen .NET (TBD)-->
+<!--Getting Started-->
+<!--Guides-->
+<!--API Reference-->
+<!--VS Tools-->
+<!--Samples-->
 <!-- End of Tizen .NET -->
 
-<!-- Tizen Native/Web Application Content -->
-# <!--Tizen Native/Web Application (TBD)-->
+# Application Developer
+## Visual Studio Tools for Tizen
+### [Overview](vstools/overview.md)
+### [Install Visual Studio Tools for Tizen](vstools/install.md)
+### [Creating your First .NET Application](vstools/first-dotnet-app.md) 
+### Tools
+#### [Project Wizard](vstools/tools/project-wizard.md)
+
+<!--Tizen Native Application-->
+## Native Application
+### [Overview](native-app/overview.md)
+### Guides
+#### [Overview](native-app/guides/overview.md)
+#### User Interface
+##### [Overview](native-app/guides/ui/overview.md) 
+##### [EFL](native-app/guides/ui/efl/) 
+##### [DALi](native-app/guides/ui/dali/) 
+#### [Media and Camera](native-app/guides/multimedia/)
+#### [Internationalization](native-app/guides/internationalization/)
+
+
 <!-- End of Tizen Native/Web Application -->
 
